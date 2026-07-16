@@ -26,130 +26,500 @@ AI-Powered Developer Workspace — Everything developers need in one intelligent
 
 ---
 
-## 🚀 About
+# 🏗️ Airbnb Clone Module — DevFlow AI
 
-**DevFlow AI** is an AI-powered developer workspace designed to simplify software development. Instead of juggling multiple tools for documentation, code review, GitHub management, debugging, and project planning, DevFlow AI brings everything together into one modern platform.
+## 📖 Overview
 
-Whether you're an individual developer, student, startup, or open-source maintainer, DevFlow AI helps automate repetitive development tasks using AI.
+The **Airbnb Clone** module is one of the flagship full-stack projects inside **DevFlow AI**. Instead of simply recreating Airbnb, this project focuses on building a **production-ready booking platform** with modern architecture, scalable backend APIs, secure authentication, real-time features, AI-powered enhancements, and an intuitive user experience.
 
-> **Vision:** Build the VS Code + GitHub Copilot + Notion + GitHub + ChatGPT experience inside one open-source platform.
-
----
-
-## ✨ Features
-
-| Feature | Description |
-|---|---|
-| 🤖 AI Code Review | Instant review, mistake explanations, performance & security suggestions |
-| 📝 README Generator | Auto-generate badges, installation, usage, FAQ sections |
-| 📄 Documentation Writer | API docs, architecture docs, technical specs, user manuals |
-| 🐛 AI Error Solver | Paste any error → get causes, solution, example fix |
-| 📋 GitHub Issue Generator | Bug report, feature request, security, performance templates |
-| 🚀 Pull Request Generator | Auto-generate PR title, description, checklist, testing notes |
-| 📊 Repository Analytics | Commits, contributors, languages, PRs, issues, activity graph |
-| 🧠 AI Architecture Generator | Folder structure, DB design, API routes, tech stack suggestions |
-| 🎯 Project Planner | Milestones, sprint planning, roadmap, tasks, timeline |
-| 📦 License Generator | MIT, Apache, GPL, BSD, MPL, AGPL |
-| 🤝 Contributing File Generator | CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, SUPPORT.md |
-| 🧪 AI Test Generator | Unit, integration, API tests for Jest, Vitest, Playwright |
-| 🔍 Dependency Analyzer | Outdated packages, vulnerabilities, breaking changes |
-| 📂 Project Scaffold Generator | Instant MERN, Next.js, Flask, FastAPI, NestJS scaffolds |
+The goal is to demonstrate how to build a large-scale MERN application from planning to deployment while following industry best practices.
 
 ---
 
-## 💻 Tech Stack
+# 🎯 Project Goals
 
-**Frontend:** Next.js · TypeScript · Tailwind CSS · ShadCN UI · React Query · Framer Motion
-**Backend:** Node.js · Express · MongoDB · Redis · Socket.io
-**AI:** OpenAI · Gemini · Ollama · LangChain
-**DevOps:** Docker · GitHub Actions · Vercel · Railway
-
----
-
-## 🗂 Folder Structure
-
-```
-DevFlow-AI
-│
-├── apps
-│   ├── web
-│   └── api
-│
-├── packages
-│   ├── ui
-│   ├── ai
-│   ├── config
-│   └── utils
-│
-├── docs
-├── examples
-├── scripts
-├── docker
-├── .github
-│   ├── ISSUE_TEMPLATE
-│   ├── workflows
-│   └── pull_request_template.md
-│
-└── README.md
-```
+- Build a complete Airbnb-like booking platform
+- Create scalable REST APIs
+- Implement secure authentication and authorization
+- Design a responsive, modern UI
+- Integrate AI-powered developer features
+- Learn production-level MERN architecture
+- Deploy a real-world application
 
 ---
 
-## 🚀 Installation
+# 👥 User Roles
 
-```bash
-git clone https://github.com/yourusername/devflow-ai.git
-cd devflow-ai
-npm install
-npm run dev
-```
+## Guest
 
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file in the project root:
-
-```
-OPENAI_API_KEY=
-GEMINI_API_KEY=
-MONGODB_URI=
-JWT_SECRET=
-GITHUB_TOKEN=
-NEXTAUTH_SECRET=
-```
+- Register & Login
+- Search properties
+- Filter listings
+- View property details
+- Save favorites
+- Book properties
+- Cancel bookings
+- Leave reviews
+- View booking history
+- Manage profile
 
 ---
 
-## 📌 Roadmap
+## Host
 
-- **Phase 1:** README Generator, Issue Generator, PR Generator, License Generator
-- **Phase 2:** AI Code Review, Error Solver, Documentation Writer
-- **Phase 3:** GitHub Integration, Repository Analytics, AI Project Planner
-- **Phase 4:** AI Architecture Generator, Team Collaboration, Live Code Review
-- **Phase 5:** Browser Extension, VS Code Extension, CLI Tool
-
-See [ROADMAP.md](ROADMAP.md) for full details.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from developers worldwide! See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
-
-Ways to contribute: fix bugs, improve UI, add AI features, improve documentation, add integrations, create templates, improve performance.
-
-### 🏷 Good First Issues
-README templates · Landing page · Authentication · Dashboard UI · Settings page · AI prompt improvements · Dark mode · Theme support · API documentation · Docker setup
-
-### 🏆 Open Source Programs
-Perfect for GSSoC · Hacktoberfest · JWOC · SWOC · GirlScript · future Google Summer of Code · campus open-source programs.
+- Register as Host
+- Create Listings
+- Upload Property Images
+- Edit Listings
+- Delete Listings
+- Manage Availability
+- Accept or Reject Bookings
+- View Earnings
+- View Booking Analytics
+- Respond to Reviews
 
 ---
 
-## 📈 Future Ideas
+## Admin
 
-AI Commit Message Generator · AI Release Notes · AI Changelog Writer · AI Code Explainer · AI UML Generator · AI ER Diagram Generator · AI API Builder · AI Database Designer · AI Meeting Notes · AI Project Chat · AI Terminal Assistant · AI Deployment Assistant · AI Git Conflict Resolver · AI Security Scanner · AI Accessibility Checker
+- Manage Users
+- Manage Hosts
+- Manage Listings
+- Remove Fake Listings
+- Moderate Reviews
+- Handle Reports
+- View Platform Analytics
+- Manage Categories
+- Manage Amenities
+- Send Notifications
+
+---
+
+# 🏠 Core Features
+
+## Authentication
+
+- JWT Authentication
+- Refresh Tokens
+- Secure Password Hashing (bcrypt)
+- Email Verification
+- Forgot Password
+- Reset Password
+- Google Login
+- GitHub Login
+- Protected Routes
+- Role-Based Access Control
+
+---
+
+## User Profile
+
+- Edit Profile
+- Upload Avatar
+- Change Password
+- Saved Properties
+- Booking History
+- Notification Preferences
+
+---
+
+## Property Listings
+
+Each listing should include:
+
+- Title
+- Description
+- Images
+- Host Information
+- Property Type
+- Room Type
+- Maximum Guests
+- Bedrooms
+- Beds
+- Bathrooms
+- Amenities
+- Price Per Night
+- Cleaning Fee
+- Service Fee
+- Location
+- Coordinates
+- House Rules
+- Cancellation Policy
+- Availability Calendar
+
+---
+
+## Property Categories
+
+- House
+- Apartment
+- Villa
+- Farmhouse
+- Cabin
+- Hotel
+- Resort
+- Beach House
+- Tree House
+- Tiny Home
+- Castle
+- Camping
+- Luxury
+- Lake House
+
+---
+
+## Search System
+
+Advanced search including:
+
+- Location Search
+- Destination Suggestions
+- Date Range
+- Guest Count
+- Bedrooms
+- Bathrooms
+- Property Type
+- Amenities
+- Instant Book
+- Superhost
+- Price Range
+- Rating Filter
+
+---
+
+## Advanced Filters
+
+- WiFi
+- Parking
+- Pool
+- Kitchen
+- Air Conditioning
+- Washing Machine
+- TV
+- Workspace
+- Pet Friendly
+- Smoking Allowed
+- Wheelchair Accessible
+- Free Cancellation
+
+---
+
+## Property Details
+
+Each property page should contain:
+
+- Image Gallery
+- Image Slider
+- Description
+- Amenities
+- Map
+- Reviews
+- Host Information
+- Availability Calendar
+- Booking Widget
+- Similar Listings
+
+---
+
+## Booking System
+
+- Check-in
+- Check-out
+- Guest Selection
+- Price Calculation
+- Taxes
+- Cleaning Fee
+- Service Fee
+- Coupon Support
+- Booking Confirmation
+- Booking Cancellation
+
+---
+
+## Payment Module
+
+- Stripe Integration
+- Razorpay Integration
+- Payment Success
+- Payment Failure
+- Refund Handling
+- Booking Receipt
+- Invoice Generation
+
+---
+
+## Wishlist
+
+- Save Property
+- Remove Property
+- Multiple Wishlists
+- Share Wishlist
+
+---
+
+## Reviews & Ratings
+
+- Give Rating
+- Write Review
+- Upload Images
+- Reply to Reviews
+- Edit Review
+- Delete Review
+- Review Analytics
+
+---
+
+## Maps Integration
+
+- Google Maps
+- Leaflet
+- Mapbox
+- Nearby Attractions
+- Current Location
+
+---
+
+## Notifications
+
+- Booking Confirmation
+- Booking Cancelled
+- Host Approval
+- Payment Updates
+- Review Notifications
+- Email Notifications
+- Push Notifications
+
+---
+
+## Chat System
+
+- Guest ↔ Host Messaging
+- Real-Time Chat
+- Image Sharing
+- File Sharing
+- Online Status
+- Typing Indicator
+
+---
+
+## Image Upload
+
+- Multiple Images
+- Drag & Drop Upload
+- Image Compression
+- Cloudinary Integration
+- Image Preview
+
+---
+
+## Dashboard
+
+### Guest Dashboard
+
+- Upcoming Trips
+- Previous Trips
+- Saved Listings
+- Messages
+- Notifications
+
+---
+
+### Host Dashboard
+
+- Listings
+- Reservations
+- Revenue
+- Occupancy Rate
+- Monthly Earnings
+- Booking Requests
+- Calendar Management
+
+---
+
+### Admin Dashboard
+
+- Users
+- Hosts
+- Listings
+- Revenue
+- Reports
+- Platform Statistics
+- System Logs
+
+---
+
+# 📊 Analytics
+
+- Revenue Charts
+- Booking Trends
+- Popular Locations
+- User Growth
+- Property Performance
+- Occupancy Rate
+- Monthly Reports
+
+---
+
+# 🤖 AI Features (DevFlow AI Integration)
+
+Unlike a normal Airbnb clone, this module integrates AI-powered capabilities:
+
+## AI Property Description Generator
+
+Generate professional property descriptions automatically.
+
+---
+
+## AI Amenity Suggestions
+
+Suggest amenities based on property type.
+
+---
+
+## AI Price Recommendation
+
+Recommend optimal pricing using location and demand.
+
+---
+
+## AI Image Quality Checker
+
+Detect blurry or low-quality images.
+
+---
+
+## AI Review Summarizer
+
+Summarize hundreds of guest reviews into concise insights.
+
+---
+
+## AI Chat Assistant
+
+Answer guest questions automatically.
+
+---
+
+## AI Fraud Detection
+
+Detect suspicious bookings and fake accounts.
+
+---
+
+## AI Personalized Recommendations
+
+Recommend properties based on user behavior and interests.
+
+---
+
+# 🔒 Security Features
+
+- JWT Authentication
+- Refresh Tokens
+- Rate Limiting
+- Helmet.js
+- CORS Protection
+- XSS Protection
+- CSRF Protection
+- Input Validation
+- API Validation
+- Secure Cookies
+- Password Encryption
+
+---
+
+# ⚡ Performance Optimizations
+
+- Lazy Loading
+- Infinite Scroll
+- Image Optimization
+- CDN Support
+- Pagination
+- Server-side Caching
+- Redis Cache
+- Code Splitting
+- SEO Optimization
+
+---
+
+# 📱 Responsive Design
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+- Dark Mode
+- Light Mode
+
+---
+
+# 🛠️ Backend Architecture
+
+Build a scalable backend with:
+
+- Modular Folder Structure
+- MVC Architecture
+- Repository Pattern
+- Service Layer
+- RESTful APIs
+- Error Handling Middleware
+- Logging System
+- Validation Layer
+- File Upload Service
+- Email Service
+- Payment Service
+- Notification Service
+
+---
+
+# 📂 Database Collections
+
+- Users
+- Hosts
+- Listings
+- Bookings
+- Reviews
+- Amenities
+- Categories
+- Payments
+- Wishlists
+- Messages
+- Notifications
+- Reports
+- Coupons
+- Transactions
+
+---
+
+# 🌟 Advanced Features
+
+- Recently Viewed Properties
+- Trending Destinations
+- Nearby Places
+- Multi-language Support
+- Currency Converter
+- Dynamic Pricing
+- Seasonal Discounts
+- Referral System
+- Promo Codes
+- Booking Calendar Sync
+- Social Sharing
+- Progressive Web App (PWA)
+
+---
+
+# 🚀 Future Scope
+
+- Mobile App (React Native)
+- AI Travel Planner
+- Voice Search
+- AI Virtual Property Tours
+- Video Property Upload
+- Smart Recommendations
+- Travel Package Integration
+- Flight & Hotel Bundles
+- AI Customer Support
+- Machine Learning-Based Pricing Engine
 
 ---
 
