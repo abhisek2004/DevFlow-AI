@@ -1,12 +1,35 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:00B4FF&height=230&section=header&text=DevFlow%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Developer%20Workspace%20🚀&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:00B4FF&height=240&section=header&text=🌟%20ELUSOC%202026&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevFlow%20AI%20•%20AI-Powered%20Developer%20Workspace%20•%20Project%20Accepted%20🚀&descAlignY=58&descSize=20" width="100%" />
 
 <p>
   <i>An AI-powered, open-source developer workspace that helps developers build, manage, review, debug, document, and deploy software projects — all from one intelligent platform.</i>
 </p>
+
+---
+
+<div align="center">
+
+# 🌟 **ELUSOC 2026**
+
+# 🚀 **PROJECT ACCEPTED & READY TO CONTRIBUTE**
+
+### 💙 Build • Learn • Collaborate • Contribute
+
+<p>
+<img src="https://img.shields.io/badge/Program-ELUSOC%202026-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Accepted-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contribution%20Ready-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Primary Badges -->
 <p align="center">
@@ -23,7 +46,7 @@
     <img src="https://img.shields.io/badge/Hacktoberfest-Ready-FF8AE2?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/GSSoC-Ready-ff9800?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Elusoc-2026-Ready-ff9800?style=for-the-badge" />
   </a>
 </p>
 
@@ -85,7 +108,7 @@
   <a href="#-contributors">Contributors</a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📖 About DevFlow AI
 
@@ -121,7 +144,10 @@ Each module is designed as a production-ready reference implementation with scal
 
 > 💡 **DevFlow AI aims to become an all-in-one open-source ecosystem for developers** — combining AI, modern web technologies, GitHub workflows, and production-ready project templates into a single collaborative platform.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🏗️ Airbnb Clone Module
 
