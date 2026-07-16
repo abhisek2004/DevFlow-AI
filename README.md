@@ -583,7 +583,3 @@ This project is licensed under the [MIT License](LICENSE).
 If you like this project: star the repository, fork it, report bugs, suggest features, and contribute! See [SUPPORT.md](SUPPORT.md) for help channels.
 
 ---
-
-## 📊 Repository Labels
-
-`good first issue` `help wanted` `documentation` `frontend` `backend` `AI` `Next.js` `TypeScript` `MongoDB` `Open Source` `Hacktoberfest` `GSSoC` `enhancement` `bug` `feature`
