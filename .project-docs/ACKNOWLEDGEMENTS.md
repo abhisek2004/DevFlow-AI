@@ -1,16 +1,14 @@
 # 🙏 Acknowledgements
 
-A huge thank you to all contributors, mentors, and supporters of **DevElevate**. Your support makes this project possible.
+A huge thank you to all contributors, mentors, and supporters of **DevFlow-AI**. Your support makes this project possible.
 
 ## Special Mentions
 
-- **GirlScript Summer of Code (GSSoC)**
-- **OpenAI GPT** – powering our Study Buddy Chatbot
-- **Shadcn UI** – for elegant UI components
-- **Tailwind CSS** – fast and utility-first design
-- **MongoDB Atlas** – scalable NoSQL database
-- **GeeksforGeeks, LeetCode, HackerRank** – for practice integration
-- **YouTube/News APIs** – powering content delivery
-- **GitHub Community** – for collaboration and support
+- **ELUSOC 2026 (Elixir Hills Open Source Championship)** – for selecting and supporting this project.
+- **React & TypeScript** – powering our frontend Airbnb Clone app.
+- **Vite** – for super-fast frontend building and tooling.
+- **Tailwind CSS** – fast and utility-first styling.
+- **Lucide React** – for beautiful, modern vector icons.
+- **GitHub Community** – for collaboration and support.
 
 Let’s keep building impactful tools together! 💙

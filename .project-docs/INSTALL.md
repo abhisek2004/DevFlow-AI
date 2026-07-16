@@ -1,8 +1,8 @@
-# 📦 INSTALL.md – Setup Guide for DevElevate
+# 📦 INSTALL.md – Setup Guide for DevFlow-AI
 
-Welcome to **DevElevate – Your Smart Learning & Career Hub** 🚀
-This guide walks you through **cloning**, **installing dependencies**, and **running the project locally** using **Vite**, **React (TypeScript)**, **Tailwind CSS**, and **Node.js**.
-Please ensure you follow the proper **folder structure** to avoid bugs or broken references.
+Welcome to **DevFlow-AI – AI-Powered Developer Workspace** 🚀
+This guide walks you through **cloning**, **installing dependencies**, and **running the Airbnb Clone module locally** using **Vite**, **React (TypeScript)**, and **Tailwind CSS**.
+Please ensure you follow the proper folder structure and commands to avoid bugs or broken references.
 
 ---
 
@@ -15,15 +15,14 @@ Before you begin, make sure you have the following installed:
 | Node.js       | ≥ 18.x  | [Download Node.js](https://nodejs.org/)              |
 | Git           | ≥ 2.x   | [Download Git](https://git-scm.com/)                 |
 | VS Code       | Latest  | [Download VS Code](https://code.visualstudio.com/)   |
-| MongoDB Atlas | –       | [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) |
 
 ---
 
 ## 🔁 Clone the Repository
 
 ```bash
-git clone https://github.com/abhisek2004/Dev-Elevate.git
-cd Dev-Elevate
+git clone https://github.com/abhisek2004/DevFlow-AI.git
+cd DevFlow-AI
 ```
 
 ---
@@ -33,56 +32,41 @@ cd Dev-Elevate
 Here's the current recommended folder structure:
 
 ```
-DevElevate/
+DevFlow-AI/
 │
-├── .github/               → GitHub metadata and workflows
-├── DevElevate/            → Primary app source folder
-│   ├── Admin/             → Admin dashboard and controls
-│   ├── Auth/              → Login, Register, Auth layout
-│   ├── Chatbot/           → AI chatbot integration (GPT-4)
-│   ├── Dashboard/         → User dashboard & home cards
-│   ├── Layout/            → Header, sidebar, routes
-│   ├── LearningHub/       → Courses, roadmaps, notes
-│   ├── Legal/             → Code of conduct, license, terms
-│   ├── PlacementPrep/     → HR prep, resources, jobs
-│   ├── Profile/           → Profile management, settings
-│   ├── ResumeBuilder/     → Resume, cover letter, GPT-based tips
-│   └── TechFeed/          → News, YouTube, Hackathons
+├── .github/               → GitHub issue/PR templates
+├── .project-docs/         → Project metadata (Changelog, Install, Learn, FAQ)
 │
-├── src/                   → App entry point
-│   ├── components/        → Shared UI components
-│   ├── contexts/          → GlobalContext, AuthContext
-│   ├── App.tsx            → Main application shell
-│   ├── index.tsx          → Root renderer
-│   └── main.tsx           → Mounting and routing logic
+├── Airbnb_Clone/          → Primary Airbnb Clone frontend module
+│   ├── public/            → Static assets (images, icons)
+│   └── src/               → Application source files
+│       ├── components/    → Custom UI components (Header, Footer, SearchBar, AuthModal)
+│       ├── context/       → Application global state context (AppContext.tsx)
+│       ├── data/          → Mock datasets (mockData.ts)
+│       ├── pages/         → Page views (Home, PropertyDetail, Search, dashboards)
+│       ├── types/         → TypeScript declarations (index.ts)
+│       ├── App.tsx        → Main App router and layout wrapper
+│       └── main.tsx       → DOM mounting and entry script
 │
-├── dist/                  → Production build output (after `npm run build`)
-├── .bolt/                 → Optional: bolt or runtime configs
-├── .gitignore             → Git ignored files
-├── vite.config.ts         → Vite build config
-├── tailwind.config.js     → Tailwind setup
-├── postcss.config.js      → PostCSS setup
-├── tsconfig.json          → TS global config
-├── tsconfig.app.json      → App-specific TS config
-├── package.json           → Project dependencies and scripts
-├── README.md              → Project overview
+├── README.md              → General project dashboard overview
 ├── LICENSE                → Project license
-├── CODE_OF_CONDUCT.md     → Code of conduct
-├── CONTRIBUTING.md        → How to contribute
-├── ROADMAP.md             → Feature roadmap
-├── SECURITY.md            → Security policy
-├── AUTHORS                → Project author info
+├── CODE_OF_CONDUCT.md     → Code of conduct guidelines
+├── CONTRIBUTING.md        → Contribution guidelines
+├── SECURITY.md            → Security disclosure policies
 ```
 
 ---
 
 ## 📦 Install Dependencies
 
+To install dependencies, navigate to the `Airbnb_Clone` subdirectory:
+
 ```bash
+cd Airbnb_Clone
 npm install
 ```
 
-Make sure you are in the **root folder** where the `package.json` file exists.
+Make sure you are in the `Airbnb_Clone` folder where the `package.json` file exists.
 
 ---
 
@@ -94,7 +78,7 @@ Use Vite's dev server to run the project locally:
 npm run dev
 ```
 
-After the app starts, navigate to:
+After the app starts, navigate to the local URL (usually):
 
 ```
 http://localhost:5173/
@@ -102,31 +86,14 @@ http://localhost:5173/
 
 ---
 
-## 🧪 Initial State & Testing
-
-### ⚠️ **Note**:
-
-- As of the current base UI state, the **login** / **sign-up** page is for demonstration only.
-- There is **no real database connection yet**. Your data is stored in **browser cache/local memory**.
-- After registration (user/admin), you'll be able to see respective dashboard UIs.
-- Once the backend is integrated, we’ll connect this with **MongoDB Atlas** and **JWT-based auth**.
-
----
-
-## 🔐 MongoDB Atlas Setup (Planned)
-
-> A complete `.env` template and MongoDB cluster connection URL will be shared once the contribution opens.
-
----
-
-## 💡 Useful NPM Scripts
+## 💡 Useful NPM Scripts (in Airbnb_Clone)
 
 ```json
 "scripts": {
   "dev": "vite",
   "build": "vite build",
-  "preview": "vite preview",
-  "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  "lint": "eslint .",
+  "preview": "vite preview"
 }
 ```
 
@@ -134,7 +101,7 @@ http://localhost:5173/
 
 ## 🧪 Testing
 
-Manual testing is being done during this stage. Automated testing framework (e.g., Vitest or Jest) will be integrated soon.
+Manual testing is done during development. Make sure pages are responsive and check your browser's console for any React warnings.
 
 ---
 
@@ -142,20 +109,6 @@ Manual testing is being done during this stage. Automated testing framework (e.g
 
 Feel free to reach out:
 
-- 💬 [GitHub Discussions](https://github.com/abhisek2004/Dev-Elevate/discussions)
-- 📧 [officialdevelevate@gmail.com](mailto:officialdevelevate@gmail.com)
+- 💬 [GitHub Issues](https://github.com/abhisek2004/DevFlow-AI/issues)
 - 🧑‍💻 Project Maintainer: Abhisek Panda
-
----
-
-## ✅ Next Steps After Setup
-
-1. Explore the folder structure
-2. Make UI changes or add new sections under `DevElevate/`
-3. Raise issues or create PRs with improvements
-4. Join our Discord/community chat (coming soon)
-
----
-
-Thank you for installing and setting up **DevElevate** locally! 💻
-Now let’s build the smartest education & career platform together. 🚀
+- 📧 Contact: [abhisek2004panda@gmail.com](mailto:abhisek2004panda@gmail.com)

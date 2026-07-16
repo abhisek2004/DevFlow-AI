@@ -1,4 +1,4 @@
-# 📌 Changelog – DevElevate
+# 📌 Changelog – DevFlow-AI
 
 All notable changes to this project will be documented in this file.
 
@@ -6,20 +6,23 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-- AI Study Buddy with semantic search
-- ATS Resume Builder (PDF export + GPT suggestions)
-- Personalized dashboards with streaks and progress tracking
-- Role-based login for user/admin
-- Admin dashboard + content management
-- MongoDB connection and real-time backend integration
+- AI Property Description Generator & Amenity Suggester
+- AI Price Recommendation Engine using historical property metrics
+- AI Review Summarizer for listing guest feedback
+- Node.js + Express backend server integration
+- MongoDB Atlas connection with schemas for Users, Listings, Bookings, and Reviews
+- Stripe / Razorpay payment gateway integration for real bookings
+- Real-time guest-host messaging system using WebSockets
 
 ---
 
-## [v0.1.0] – 2025-07-08
+## [v0.1.0] – 2026-07-16
 
-🚀 Initial project scaffold and UI setup:
+🚀 Initial project scaffold and frontend UI setup for the **Airbnb Clone** module:
 
-- Frontend folder structure using TypeScript + Tailwind CSS + Shadcn UI
-- Initial landing page, login/signup UI
-- Separate flows for user/admin (in-memory only)
-- Sample components and routes created
+- React + TypeScript + Vite + Tailwind CSS frontend app scaffolded inside `Airbnb_Clone`
+- Complete implementation of core pages: Home, PropertyDetail, Search, HostDashboard, Profile
+- Interactive custom components: SearchBar, Header, Footer, AuthModal, PropertyCard
+- Interactive features: destination search, guest selection, date filters, price calculations
+- Static informational pages: AirCover, HelpCentre, Sitemap, Terms, Privacy, Services
+- Client-side mock data store (`mockData.ts`) and global state provider (`AppContext.tsx`)

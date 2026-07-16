@@ -2,30 +2,30 @@
 
 ---
 
-### Q. Who can contribute?
+### Q. Who can contribute to DevFlow-AI?
 
-Anyone! Whether you're a beginner or experienced, you can contribute to DevElevate.
+Anyone! Whether you're a beginner or experienced developer participating in ELUSOC 2026, you can contribute to DevFlow-AI. Check out our open issues and project documentation.
 
 ---
 
 ### Q. Do I need prior AI or full-stack knowledge?
 
-No, we have beginner-friendly issues as well as advanced ones. Check the `good first issue` label.
+No! You can contribute to frontend UI enhancements, documentation, state management, or styling. We have beginner-friendly issues as well as advanced backend/AI integrations.
 
 ---
 
-### Q. How do I join Discord?
+### Q. Where is the backend server code?
 
-Discord invite will be shared after the first stable release.
-
----
-
-### Q. Why can't I see data in dashboard?
-
-Right now, login/signup uses in-memory (not connected to DB). You can explore the dashboard by registering with dummy data.
+The project is currently focusing on building and polishing the frontend module (`Airbnb_Clone`) under DevFlow-AI. The backend server and DB codebases are scheduled for future phases of development.
 
 ---
 
-### Q. Where will my resume/CV be saved?
+### Q. Where is the listing and booking data stored?
 
-In the browser cache/local memory during development. In final version, data will be securely stored in MongoDB.
+Currently, listing and booking data is managed entirely on the client side using robust mock datasets inside `Airbnb_Clone/src/data/mockData.ts` and managed in memory via `AppContext.tsx`. In the future, this data will be persisted using MongoDB Atlas.
+
+---
+
+### Q. How do I start the development server?
+
+Navigate to the `Airbnb_Clone` subdirectory and run `npm run dev`. This will launch the React dev server using Vite.
