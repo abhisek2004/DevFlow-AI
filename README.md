@@ -1,3 +1,78 @@
+<br />
+
+<div align="center">
+
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:00B4FF&height=230&section=header&text=DevFlow%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Developer%20Workspace%20🚀&descAlignY=55&descSize=20" width="100%" />
+
+<p>
+  <i>
+    An AI-powered, open-source developer workspace that helps developers build, manage, review, debug, document, and deploy software projects—all from one intelligent platform.
+  </i>
+</p>
+
+<!-- Primary Badges -->
+
+[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhisek2004/DevFlow-AI)
+
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](#)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/abhisek2004/DevFlow-AI/pulls)
+
+[![Hacktoberfest Ready](https://img.shields.io/badge/Hacktoberfest-Ready-FF8AE2?style=for-the-badge&logo=hacktoberfest&logoColor=white)](#)
+
+[![GSSoC Ready](https://img.shields.io/badge/GSSoC-Ready-ff9800?style=for-the-badge)](#)
+
+---
+
+<!-- GitHub Stats -->
+
+[![GitHub Stars](https://img.shields.io/github/stars/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Stars&color=FFD700)](https://github.com/abhisek2004/DevFlow-AI/stargazers)
+
+[![GitHub Forks](https://img.shields.io/github/forks/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Forks&color=4ECDC4)](https://github.com/abhisek2004/DevFlow-AI/network/members)
+
+[![GitHub Issues](https://img.shields.io/github/issues/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Issues&color=FF6B6B)](https://github.com/abhisek2004/DevFlow-AI/issues)
+
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Pull%20Requests&color=00C9A7)](https://github.com/abhisek2004/DevFlow-AI/pulls)
+
+[![License](https://img.shields.io/github/license/abhisek2004/DevFlow-AI?style=flat-square&color=8A2BE2)](LICENSE)
+
+[![Last Commit](https://img.shields.io/github/last-commit/abhisek2004/DevFlow-AI?style=flat-square&logo=github)](https://github.com/abhisek2004/DevFlow-AI/commits)
+
+---
+
+<!-- Tech Stack -->
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](#)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+
+[![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](#)
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+---
+
 # 🚀 DevFlow AI
 
 > **AI-Powered Developer Workspace** — Build, manage, debug, document, review, and deploy software projects from one intelligent, open-source platform.
