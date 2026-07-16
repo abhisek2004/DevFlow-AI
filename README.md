@@ -684,3 +684,118 @@ If you like this project: star the repository, fork it, report bugs, suggest fea
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+---
+
+# ☁️ Deployment
+
+DevFlow AI is designed for modern cloud deployment with a scalable architecture.
+
+### 🌐 Frontend
+- **Vercel** ✅
+### ⚙️ Backend
+- **Render** ✅
+### 🗄️ Database
+- **MongoDB Atlas** ✅
+### 🤖 AI Services
+- OpenAI API
+- Google Gemini API
+- Ollama (Optional Local LLM)
+
+### 🚀 Deployment Guide
+
+1. **Fork** or **Clone** the repository.
+
+   ```bash
+   git clone https://github.com/abhisek2004/DevFlow-AI.git
+   cd DevFlow-AI
+   ```
+
+2. Install all required dependencies.
+
+3. Configure your `.env` file using the provided `.env.example`.
+
+4. Deploy the **Frontend** to **Vercel**.
+
+5. Deploy the **Backend API** to **Render**.
+
+6. Connect your **MongoDB Atlas** database.
+
+7. Add your API Keys
+
+   - OpenAI
+   - Gemini
+   - GitHub OAuth
+   - JWT Secret
+
+8. Your DevFlow AI instance is ready 🚀
+
+---
+
+# 🧑‍💻 Contributing
+
+We warmly welcome developers of all skill levels to contribute to **DevFlow AI**.
+
+Whether you're interested in AI, frontend development, backend engineering, documentation, DevOps, UI/UX, or testing, there's something for everyone.
+
+> [!IMPORTANT]
+> **Before creating an Issue or Pull Request**, please read the contribution guidelines and existing issues. This helps avoid duplicate work and ensures a smoother review process.
+
+### 📚 Quick Links
+
+| Resource | Description |
+|----------|-------------|
+| 📋 [CONTRIBUTING.md](.github/CONTRIBUTING.md) | Project setup, branching strategy, pull request workflow and coding standards |
+| 💬 [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md) | Community guidelines and expected behavior |
+| 🔒 [SECURITY.md](.github/SECURITY.md) | Responsible vulnerability disclosure policy |
+| 🗺️ [ROADMAP.md](ROADMAP.md) | Upcoming features and development milestones |
+| 📖 [PROJECT_GUIDE.md](docs/PROJECT_GUIDE.md) | Complete project architecture and developer guide |
+
+---
+
+# 🤝 Contributors
+
+A huge thank you to everyone who contributes to **DevFlow AI** and helps make it better every day. ❤️
+
+<div align="center">
+
+<a href="https://github.com/abhisek2004/DevFlow-AI/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=abhisek2004/DevFlow-AI&max=100&columns=12"/>
+</a>
+
+</div>
+
+> Want to see your avatar here? Read the **Contributing Guide**, pick an issue, submit a Pull Request, and become part of the DevFlow AI community.
+
+---
+
+<div align="center">
+
+## 💖 Support the Project
+
+If you find **DevFlow AI** useful, please consider supporting the project by giving it a **⭐ Star** on GitHub.
+
+<br>
+
+<a href="https://github.com/abhisek2004/DevFlow-AI">
+<img src="https://img.shields.io/badge/⭐_Star_This_Repository-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://github.com/abhisek2004/DevFlow-AI/fork">
+<img src="https://img.shields.io/badge/🍴_Fork_This_Repository-45B7D1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abhisek2004">
+<img src="https://img.shields.io/badge/👨‍💻_Follow_Abhisek_Panda-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🌟 Every Star Helps the Project Grow!
+
+**Your support motivates contributors and helps DevFlow AI reach more developers around the world.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:00B4FF&height=120&section=footer"/>
+
+</div>
