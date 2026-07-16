@@ -1,3 +1,7 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <br />
 
 <div align="center">
@@ -12,66 +16,89 @@
 </p>
 
 <!-- Primary Badges -->
+<p align="center">
 
-[![Repository](https://img.shields.io/badge/📂_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhisek2004/DevFlow-AI)
+<a href="https://github.com/abhisek2004/DevFlow-AI">
+  <img src="https://img.shields.io/badge/📂_Repository-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](#)
+<a href="#">
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" />
+</a>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/abhisek2004/DevFlow-AI/pulls)
+<a href="https://github.com/abhisek2004/DevFlow-AI/pulls">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
+</a>
 
-[![Hacktoberfest Ready](https://img.shields.io/badge/Hacktoberfest-Ready-FF8AE2?style=for-the-badge&logo=hacktoberfest&logoColor=white)](#)
+<a href="#">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Ready-FF8AE2?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+</a>
 
-[![GSSoC Ready](https://img.shields.io/badge/GSSoC-Ready-ff9800?style=for-the-badge)](#)
+<a href="#">
+  <img src="https://img.shields.io/badge/GSSoC-Ready-ff9800?style=for-the-badge" />
+</a>
 
----
+</p>
 
-<!-- GitHub Stats -->
+<p align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Stars&color=FFD700)](https://github.com/abhisek2004/DevFlow-AI/stargazers)
+<a href="https://github.com/abhisek2004/DevFlow-AI/stargazers">
+<img src="https://img.shields.io/github/stars/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Stars&color=FFD700"/>
+</a>
 
-[![GitHub Forks](https://img.shields.io/github/forks/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Forks&color=4ECDC4)](https://github.com/abhisek2004/DevFlow-AI/network/members)
+<a href="https://github.com/abhisek2004/DevFlow-AI/network/members">
+<img src="https://img.shields.io/github/forks/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Forks&color=4ECDC4"/>
+</a>
 
-[![GitHub Issues](https://img.shields.io/github/issues/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Issues&color=FF6B6B)](https://github.com/abhisek2004/DevFlow-AI/issues)
+<a href="https://github.com/abhisek2004/DevFlow-AI/issues">
+<img src="https://img.shields.io/github/issues/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Issues&color=FF6B6B"/>
+</a>
 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=Pull%20Requests&color=00C9A7)](https://github.com/abhisek2004/DevFlow-AI/pulls)
+<a href="https://github.com/abhisek2004/DevFlow-AI/pulls">
+<img src="https://img.shields.io/github/issues-pr/abhisek2004/DevFlow-AI?style=flat-square&logo=github&label=PRs&color=00C9A7"/>
+</a>
 
-[![License](https://img.shields.io/github/license/abhisek2004/DevFlow-AI?style=flat-square&color=8A2BE2)](LICENSE)
+<a href="LICENSE">
+<img src="https://img.shields.io/github/license/abhisek2004/DevFlow-AI?style=flat-square&color=purple"/>
+</a>
 
-[![Last Commit](https://img.shields.io/github/last-commit/abhisek2004/DevFlow-AI?style=flat-square&logo=github)](https://github.com/abhisek2004/DevFlow-AI/commits)
+<a href="https://github.com/abhisek2004/DevFlow-AI/commits">
+<img src="https://img.shields.io/github/last-commit/abhisek2004/DevFlow-AI?style=flat-square&logo=github"/>
+</a>
 
----
+</p>
 
-<!-- Tech Stack -->
+<p align="center">
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-[![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-</div>
+</p>
 
----
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 🚀 DevFlow AI
 
@@ -144,7 +171,9 @@ Each project serves as a production-ready reference implementation with scalable
   <a href="#-license">📄 License</a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 > **💡 DevFlow AI aims to become an all-in-one open-source ecosystem for developers, combining AI, modern web technologies, GitHub workflows, and production-ready project templates into a single collaborative platform.**
 
@@ -647,14 +676,11 @@ Build a scalable backend with:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## ⭐ Support
 
 If you like this project: star the repository, fork it, report bugs, suggest features, and contribute! See [SUPPORT.md](SUPPORT.md) for help channels.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
