@@ -503,6 +503,187 @@ If you find **DevFlow AI** useful, please consider giving it a **⭐ star** on G
 
 **Your support motivates contributors and helps DevFlow AI reach more developers around the world.**
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<div align="center">
+
+# 👨‍💻 About the Admin
+
+<img src="https://github.com/user-attachments/assets/a92d4e36-c38a-4af2-bbfa-aae37e35ccbf" alt="Abhisek Panda" width="180" style="border-radius:50%;"/>
+
+### Abhisek Panda
+
+**Frontend Enthusiast • MERN Stack Developer • Python Developer • Open Source Contributor**
+📍 Odisha, India 🇮🇳
+
+<p>
+  <a href="https://abhisekpanda072.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6C63FF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/abhisek2004">
+    <img src="https://img.shields.io/badge/GitHub-abhisek2004-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhisekpanda2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-abhisekpanda2004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhisek2004panda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🚀 Hi, I'm **Abhisek Panda** — a passionate **Frontend Enthusiast, MERN Stack Developer, Python Developer, and Open Source Contributor** from Odisha, India 🇮🇳.
+
+🎓 I completed my **Bachelor of Technology (B.Tech) in Computer Science Engineering** from **GIET University, Gunupur, Odisha, India**.
+
+💻 I'm passionate about **MERN Stack Development, Python Programming, Open Source Contribution**, and building impactful real-world projects that solve practical problems and enhance user experience.
+
+🌟 I love exploring modern technologies, contributing to collaborative developer communities, and continuously improving my skills through hands-on development, innovation, and open-source work.
+
+**💡 My journey revolves around:**
+
+- 🌐 Full Stack Web Development
+- 🐍 Python Development
+- ⚛️ MERN Stack Applications
+- 🤖 AI-Powered Platforms
+- 🚀 Open Source Contributions
+- 💻 Real-World Project Building
+- 📚 Continuous Learning & Mentorship
+
+> ✨ *"Learning by Building, Growing by Contributing, and Succeeding through Consistency."* 🔥
+
+<br clear="right"/>
+
+---
+
+## 🌟 Best Projects & Deployments
+
+<div align="center">
+
+| 🚀 Project | 🌐 Live Demo | 💻 Tech Stack |
+|---|---|---|
+| 🌟 Personal Portfolio | [Visit Now](https://abhisekpanda072.vercel.app/) | HTML, CSS, JavaScript |
+| 🤖 DevElevate AI Platform | [Visit Now](https://develevate-ai.vercel.app/) | MERN, AI, Open Source |
+| 📚 StudyNotion Learning Platform | [Visit Now](https://studynotion-nextskill.vercel.app/) | React, Node.js, MongoDB |
+| 🧠 DSA Mastery Hub | [Visit Now](https://dsamasteryhub.vercel.app/) | DSA, React, JavaScript |
+| 🏏 IPL Website | [Visit Now](https://ipl-indianpremierleague.vercel.app/) | Frontend Development |
+| 💰 Financial Empire Platform | [Visit Now](https://financial-empire.vercel.app/) | Finance & Web Development |
+
+</div>
+
+## 🔥 Top GitHub Repositories
+
+<div align="center">
+
+| ⭐ Repository | 🚀 Description |
+|---|---|
+| 🔗 [Coding Resources Full Stack](https://github.com/abhisek2004/Coding-resources_Full-stack.git) | Complete Full Stack Development learning resources |
+| 🌐 [HTML CSS JavaScript Projects](https://github.com/abhisek2004/Html-Css-Javascript-Project.git) | Collection of frontend projects & UI designs |
+| 🤖 [Dev-Elevate](https://github.com/abhisek2004/Dev-Elevate.git) | AI-powered smart learning & open source platform |
+
+</div>
+
+---
+
+## 🏆 Achievements & Experience
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**✨ Roles & Positions**
+- 🚀 Project Admin — GirlScript Summer of Code (GSSoC)
+- 🌟 Project Admin — Code Social
+- 🏆 State Lead — ECWoC Odisha
+- 💻 Open Source Contributor
+- 👨‍🏫 Open Source Mentor & Community Builder
+
+</td>
+<td valign="top" width="50%">
+
+**✅ Completed**
+- 💼 Multiple internships in Web Dev & Data Science
+- 🌐 Full Stack Development projects
+- 🧠 AI & Machine Learning programs
+- 🚀 Open Source contribution programs
+- 🏅 Hacktoberfest contributions
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhisekpanda2004/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/abhisek2004">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:abhisek2004panda@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhisek2004panda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+🚀 **Open Source Enthusiast &nbsp;•&nbsp; MERN Developer &nbsp;•&nbsp; Freelancer**
+
+</div>
+
+---
+
+<div align="center">
+
+## 📢 Final Words
+
+> *"Code every day. Learn continuously. Build consistently. Contribute openly. Grow endlessly."* 🚀
+
+🔥 Passionate about creating impactful digital experiences, solving real-world problems, and contributing to the open-source ecosystem.
+
+🚀 Always learning &nbsp;•&nbsp; 💻 Always building &nbsp;•&nbsp; 🌟 Always growing
+
+<br>
+
+# 💻 Happy Coding & Open Source Contributing 🚀🔥
+
+# ⭐ Thanks for Visiting! 🚀💻🔥
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:00B4FF&height=120&section=footer"/>
 
 </div>
